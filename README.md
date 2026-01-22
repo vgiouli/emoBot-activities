@@ -5,7 +5,7 @@ The dataset is designed for research and development in **language learning tech
 
 ---
 
-## DE-MC: German Multiple-Choice Questions Dataset: Overview
+## MCQ-de: German Multiple-Choice Questions Dataset: Overview
 
 - **Language:** German (DE)
 - **Task type:** Multiple-choice questions
