@@ -9,7 +9,7 @@ The dataset is designed for research and development in **language learning tech
 
 - **Language:** German (DE)
 - **Task type:** Multiple-choice questions
-- **Total activities:** 370
+- **Total multiple-choice questions:** 370
 - **Competences covered:**
   - Reading
   - Vocabulary (in selected activities)
@@ -17,7 +17,7 @@ The dataset is designed for research and development in **language learning tech
 - **Status labels:** approved, pending_review
 - **Source inspiration:** Authentic learning materials (e.g. DW Learn German)
 
-Each activity is linked to a short text and contains multiple questions with:
+Each activity is linked to a short text and contains multiple questions:
 - one correct answer
 - one or more distractors
 
@@ -41,26 +41,19 @@ Top-level structure:
 
 ```json
 {
-  "id": 677,
-  "activity_type": "multiple_choice",
-  "language": "DE",
-  "linguistic_competence": ["Reading"],
-  "description": "...",
-  "status": "pending_review",
-  "text": {
-    "id": 999,
-    "title": "Frauen im Kölner Karneval",
-    "topic": "society",
-    "cefr_level": null
-  },
-  "questions": [
-    {
-      "question": "Eine Mitgliedschaft in einem Traditionskorps ist möglich für …",
-      "answer": "Männer.",
-      "distractors": [
-        { "text": "Frauen." },
-        { "text": "Frauen und Männer." }
-      ]
-    }
-  ]
-}
+          "id": 1028,
+          "question_order": 2,
+          "anchor": "Im Text steht: \"Der Begriff stammt eigentlich aus dem popkulturellen Kontext, es ging darum, den Anschluss an das soziale und kulturelle Umfeld nicht zu verlieren. Wer »dabei« sein will, muss heutzutage ständig informiert und damit online sein. Erst während der Pandemie merkten viele plötzlich, wie gut es tut, auch einmal zu entschleunigen und einfach nur bei sich selbst zu sein.\"",
+          "question": "Welche Alternative gibt die Bedeutung von \"zu entschleunigen und einfach nur bei sich selbst zu sein.\" richtig wieder?",
+          "answer": "den Lebensrhythmus zu verlangsamen und seine innere Mitte zu finden.",
+          "distractors": [
+            {
+              "text": "langsam zu machen und die Gesellschaft anderer zu suchen.",
+              "order": 1
+            },
+            {
+              "text": "mit den anderen mitzuhalten, aber gleichzeitig seine innere Ruhe zu bewahren.",
+              "order": 2
+            }
+          ]
+        },
