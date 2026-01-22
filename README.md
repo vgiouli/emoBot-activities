@@ -25,7 +25,7 @@ Each activity is linked to a short text and contains multiple questions with:
 
 ## File Description
 
-### `data/DE-MC-20260122.json`
+### `data/DE/MCQ-de.json`
 
 A JSON file containing the full dataset, exported on **2026-01-22**.
 
