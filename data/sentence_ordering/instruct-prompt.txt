@@ -1,0 +1,25 @@
+Task:
+Create a sentence-ordering exercise from the given text.
+
+You must output ONLY valid JSON.
+
+Rules:
+- Create a short text.
+- Split the text into sentences.
+- Keep first and last sentence fixed.
+- Shuffle only intermediate sentences.
+- Assign labels A, B, C, ...
+- Preserve exact wording.
+
+Output schema:
+{
+  "instruction": string,
+  "first_sentence": string,
+  "last_sentence": string,
+  "items": [
+    {"label": string, "text": string, "original_position": number}
+  ],
+  "solution": [string]
+}
+
+Do not include any text outside the JSON.
