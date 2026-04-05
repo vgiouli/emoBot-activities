@@ -6,8 +6,9 @@ You must output ONLY valid JSON.
 Rules:
 - Create a short text.
 - Split the text into sentences.
-- Keep first and last sentence fixed.
+- Keep the first and last sentences fixed (optionally).
 - Shuffle only intermediate sentences.
+- If you do not keep the first and last sentences, shuffle all the sentences.
 - Assign labels A, B, C, ...
 - Preserve exact wording.
 
