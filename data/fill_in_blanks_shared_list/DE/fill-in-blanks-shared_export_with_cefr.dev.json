@@ -1,0 +1,713 @@
+{
+  "activities": [
+    {
+      "id": 759,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "A1",
+      "source_reference": "KPG A/ PRÜFUNGSVORBEREITUNG IN DER SCHULE-FILL IN THE GAPS ACTIVITIES, TEST 8, A.4",
+      "linguistic_competence": [
+        "Reading",
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Lesen Sie den folgenden Text und wählen Sie für jede Lücke das richtige Wort aus. Ein Wort bleibt übrig.",
+      "gapped_text": "Tao Tao der kleine Pandabär\nDer Spielfilm\nDer kleine Pandabär Tao Tao {{1}} zusammen mit seiner Mutter in China. Er {{2}} zwei sehr gute Freunde: den Affen Kiki und den Hasen Puu. Eines Tages trifft er ein Panda-Mädchen und verliebt sich in sie. Die beiden werden ein Paar, und {{3}} viel Spaß zusammen. Aber dann kommen die Tierfänger und schicken Tao Tao nach Europa.\nTao Tao wohnt nun {{4}} einem Zoo und ist sehr traurig. Er möchte wieder {{5}} Hause. Auch die freundliche Tierpflegerin Mary kann ihn nicht glücklich machen.",
+      "correct_answers": [
+        "lebt",
+        "hat",
+        "haben",
+        "in",
+        "nach"
+      ],
+      "distractors": [
+        "zu"
+      ]
+    },
+    {
+      "id": 758,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "A1",
+      "source_reference": "KPG A/ PRÜFUNGSVORBEREITUNG IN DER SCHULE-FILL IN THE GAPS ACTIVITIES, TEST 7, A.4",
+      "linguistic_competence": [
+        "Reading",
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Lesen Sie den folgenden Text. Wählen Sie für jede Lücke das richtige Wort aus. Ein Wort bleibt übrig.",
+      "gapped_text": "Wir {{1}} dieses Mal für euch ein interessantes Interview mit dem Direktor unserer Schule.\nAlso, {{2}} Direktor heißt Manfred Köller und ist 52 Jahre alt. Er ist verheiratet und hat {{3}} Sohn. Herr Köller ist sehr sympathisch, aber er kann auch {{4}} sein. Am liebsten liest er in seiner Freizeit Bücher oder er {{5}} im Internet.",
+      "correct_answers": [
+        "haben",
+        "unser",
+        "einen",
+        "streng",
+        "surft"
+      ],
+      "distractors": [
+        "ein"
+      ]
+    },
+    {
+      "id": 757,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "A1",
+      "source_reference": "KPG A/ PRÜFUNGSVORBEREITUNG IN DER SCHULE-FILL IN THE GAPS ACTIVITIES, TEST 6, A.4",
+      "linguistic_competence": [
+        "Reading",
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Lesen Sie den folgenden Text und wählen Sie für jede Lücke das richtige Wort aus. Ein Wort bleibt übrig.",
+      "gapped_text": "Hallo alle zusammen!\nWir heißen Lina und Anna, und wir {{1}} aus Schweden. In unserem {{2}} sind zwei Betten, ein Schreibtisch und zwei Stühle. Wir haben auch viele Sachen: einen Computer, viele Bücher und an der Wand haben wir einen Spiegel, viele Poster und Fotos. Es ist nicht sehr groß, aber {{3}} ist sehr modern. Am Wochenende kommen {{4}} Freundinnen, und wir haben zusammen viel Spaß. Wir spielen am Computer {{5}} sprechen über die Jungen.",
+      "correct_answers": [
+        "kommen",
+        "Zimmer",
+        "es",
+        "unsere",
+        "oder"
+      ],
+      "distractors": [
+        "wohnen"
+      ]
+    },
+    {
+      "id": 756,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "A1",
+      "source_reference": "KPG A/ PRÜFUNGSVORBEREITUNG IN DER SCHULE-FILL IN THE GAPS ACTIVITIES, TEST 5, A.4",
+      "linguistic_competence": [
+        "Reading",
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Lesen Sie den folgenden Text und wählen Sie für jede Lücke das richtige Wort aus. Ein Wort bleibt übrig.",
+      "gapped_text": "Hallo!\nIch heiße Gerald und komme {{1}} Mexiko. Ich habe {{2}} Hund. Sein Name ist Maka, und er ist vier Monate alt. Er ist braun und nicht so groß, aber {{3}} Ohren sind lang. Er frisst gern Würstchen und Salami. Am {{4}} gehe ich mit ihm spazieren und wir spielen zusammen Ball. Er schläft {{5}}, aber er ist sehr lieb.",
+      "correct_answers": [
+        "aus",
+        "einen",
+        "seine",
+        "liebsten",
+        "viel"
+      ],
+      "distractors": [
+        "meine"
+      ]
+    },
+    {
+      "id": 754,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "A1",
+      "source_reference": "KPG A 2008B-FILL IN THE GAPS ACTIVITIES, A4",
+      "linguistic_competence": [
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Lesen Sie den Text und ergänzen Sie die Lücken mit den passenden Wörtern.",
+      "gapped_text": "Ich heiße Florian und {{1}} in Gerasdorf. Ich bin 15 Jahre alt und habe am 24. November {{2}} . Meine Augen sind {{3}} und meine Haare blond. Ich höre gern {{4}}, am liebsten Pop. Tischtennis finde {{5}} auch super. In der Schule spiele ich mit meinen Freunden oft Tischtennis.",
+      "correct_answers": [
+        "wohne",
+        "Geburtstag",
+        "grün",
+        "Musik",
+        "ich"
+      ],
+      "distractors": []
+    },
+    {
+      "id": 753,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "A1",
+      "source_reference": "KPG A/ PRÜFUNGSVORBEREITUNG IN DER SCHULE-FILL IN THE GAPS ACTIVITIES, TEST 4, A4",
+      "linguistic_competence": [
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Lesen Sie den Text und ergänzen Sie die Lücken mit den passenden Wörtern. Ein Wort bleibt übrig.",
+      "gapped_text": "Jeden Morgen stehe ich um 7 Uhr {{1}}. Dann macht meine Mutter das {{2}}. Meistens {{3}} ich einen Toast mit Schinken und Käse. Ich trinke Milch oder Orangensaft. Aber {{4}} Wochenende holt mein Vater Croissants, und die ganze Familie frühstückt zusammen. Meine Eltern trinken Kaffee, meine Geschwister und ich eine heiße Schokolade. Das {{5}} prima!",
+      "correct_answers": [
+        "auf",
+        "Frühstuck",
+        "esse",
+        "am",
+        "schmeckt"
+      ],
+      "distractors": [
+        "Tee"
+      ]
+    },
+    {
+      "id": 761,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "A2",
+      "source_reference": "KPG B/ PRÜFUNGSVORBEREITUNG IN DER SCHULE-FILL IN THE GAPS ACTIVITIES, Test 6, A.4",
+      "linguistic_competence": [
+        "Reading",
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Im folgenden Text fehlen einige Wörter. Füllen Sie die Lücken aus, indem Sie die passenden Wörter aus der Liste ergänzen. Sie können jedes Wort nur einmal verwenden. Ein Wort bleibt übrig.",
+      "gapped_text": "Welche Eigenschaften sollten eure Freunde haben?\nMeine Freunde sollten immer für mich da {{1}}, egal in welchen Lebenslagen. Auch möchte ich mit meinen Freunden über alles {{2}} können, und sie sollen nichts davon weitererzählen. Ich möchte ihnen also allgemein {{3}}. Es ist für mich wichtig, mit ihnen viele schöne Sachen zu {{4}}. Das heißt ich möchte nicht immer zu Hause {{5}}, sondern mit ihnen ins Kino oder feiern gehen. Außerdem sollen mir meine Freunde {{6}}, wenn ich Probleme habe.",
+      "correct_answers": [
+        "sein",
+        "reden",
+        "vertrauen",
+        "erleben",
+        "sitzen",
+        "helfen"
+      ],
+      "distractors": [
+        "gehen"
+      ]
+    },
+    {
+      "id": 699,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "A2",
+      "source_reference": "KPG Β 2025B- FILL IN THE GAPS ACTIVITIES, A.4",
+      "linguistic_competence": [
+        "Reading",
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Im folgenden Text fehlen einige Wörter. Füllen Sie die Lücken aus, indem Sie die passenden Wörter aus der Liste ergänzen. Sie können jedes Wort nur einmal verwenden. Ein Wort bleibt übrig.",
+      "gapped_text": "Musik begleitet Jugendliche überall: {{1}} Bus, beim Lernen oder mit Freunden. Jugendliche {{2}} fast den ganzen Tag Musik. Wenn man {{3}} anderen singt oder tanzt, entsteht oft eine tolle Stimmung. Man vergisst Stress und Sorgen, weil Musik dabei {{4}}, sich besser zu fühlen. Viele sagen, dass Musik auch sehr {{5}} ist, weil sie Menschen näherbringt und Emotionen zeigt. Für Jugendliche ist sie mehr {{6}} Unterhaltung – sie ist Teil ihres Alltags.",
+      "correct_answers": [
+        "im",
+        "hören",
+        "mit",
+        "hilft",
+        "wichtig",
+        "als"
+      ],
+      "distractors": [
+        "wo"
+      ]
+    },
+    {
+      "id": 698,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "A2",
+      "source_reference": "KPG A 2014A-FILL IN THE GAPS ACTIVITIES, A4",
+      "linguistic_competence": [
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Lesen Sie den folgenden Text und wählen Sie für jede Lücke das richtige Wort aus. Ein Wort bleibt übrig.",
+      "gapped_text": "Wir wollen Muffins für die Party backen, das ist nicht {{1}}. Wir brauchen nur Zucker, Mehl, Eier, {{2}} und Smarties. Das {{3}} du im Supermarkt. Wir mischen alles und tun es in die Formen. Dann müssen wir die Muffins {{4}} Minuten backen. Und am {{5}} dekorieren wir sie mit Smarties. Die Muffins kommen auf einen Teller, und die Party kann losgehen!",
+      "correct_answers": [
+        "schwer",
+        "Butter",
+        "findest",
+        "fünfzehn",
+        "Ende"
+      ],
+      "distractors": [
+        "kannst"
+      ]
+    },
+    {
+      "id": 695,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "A2",
+      "source_reference": "KPG A 2013A-FILL IN THE GAPS ACTIVITIES, A4",
+      "linguistic_competence": [
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Lesen Sie den folgenden Text und wählen Sie für jede Lücke das richtige Wort aus. Ein Wort bleibt übrig.",
+      "gapped_text": "Millie auf Mallorca\nMillie, ihre Eltern und ihre Oma {{1}} mit dem Auto nach Barcelona. Dann nehmen sie von Barcelona das Schiff nach Mallorca. Auf Mallorca haben sie ein {{2}} mit einem großen Balkon. Da sitzt die Oma gern und sieht das Meer, den Strand, die {{3}} und das Schwimmbad. Im Schwimmbad lernt Millie {{4}}. Sie findet ihre {{5}} auf Mallorca fantastisch!",
+      "correct_answers": [
+        "fahren",
+        "Haus",
+        "Berge",
+        "schwimmen",
+        "Ferien"
+      ],
+      "distractors": [
+        "haben"
+      ]
+    },
+    {
+      "id": 692,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "A2",
+      "source_reference": "KPG A 2012A-FILL IN THE GAPS ACTIVITIES, A4",
+      "linguistic_competence": [
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Lesen Sie den folgenden Text und wählen Sie für jede Lücke das richtige Wort aus. Ein Wort bleibt übrig.",
+      "gapped_text": "Unsere Schule ist in Dietenburg. An unserer Schule können wir im Unterricht essen {{1}} trinken. Das finden {{2}} toll! Wir haben nämlich im Unterricht {{3}} Hunger und Durst. Da essen wir gern Obst. Bananen und {{4}} mögen wir sehr. Und wir trinken gern Orangensaft oder {{5}}.",
+      "correct_answers": [
+        "und",
+        "wir",
+        "oft",
+        "Äpfel",
+        "Wasser"
+      ],
+      "distractors": [
+        "sie"
+      ]
+    },
+    {
+      "id": 691,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "A2",
+      "source_reference": "KPG A 2011A-FILL IN THE GAPS ACTIVITIES, A4",
+      "linguistic_competence": [
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Lesen Sie den Text und ergänzen Sie die Lücken mit den passenden Wörtern.",
+      "gapped_text": "Weißt du, wie groß {{1}} Giraffe werden kann? Weißt du, wie viel ein Elefant wiegt? Magst du {{2}}? Dann kauf dir das Spiel „Fauna“! Hier lernst du viel über Tiere aus der ganzen Welt. Es ist ein tolles Spiel für {{3}} ab zehn Jahren. Du {{4}} es aber auch mit deinen Eltern spielen. Das Spiel kostet nur {{5}} Euro.",
+      "correct_answers": [
+        "eine",
+        "Tiere",
+        "Kinder",
+        "kannst",
+        "fünfzehn"
+      ],
+      "distractors": []
+    },
+    {
+      "id": 763,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "B1",
+      "source_reference": "KPG B/ PRÜFUNGSVORBEREITUNG IN DER SCHULE-FILL IN THE GAPS ACTIVITIES, Test 8, A.4",
+      "linguistic_competence": [
+        "Reading",
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Im folgenden Text fehlen einige Wörter. Füllen Sie die Lücken aus, indem Sie die passenden Wörter aus der Liste ergänzen. Sie können jedes Wort nur einmal verwenden. Ein Wort bleibt übrig.",
+      "gapped_text": "Ist Dir das schon mal passiert? Vor dem Supermarkt sitzt ein drolliger Hund. Sein Besitzer hat ihn angeleint, weil er ihn nicht ins Geschäft mit reinnehmen {{1}}. Du findest den Hund so süß und würdest ihn am liebsten streicheln und knuddeln. Die meisten Hunde sind freundlich und mögen Kinder. Aber wie ist das mit dem Hund vor dem Supermarkt?\nWenn man einen Hund nicht kennt, {{2}} man lieber warten, bis der Besitzer mit dem Einkaufen fertig ist. Er wird Dir dann sagen können, ob sein Hund {{3}}, von Dir gestreichelt zu werden.\nWenn der Besitzer nichts dagegen {{4}}, strecke dem Hund Deine Hand entgegen und {{5}} ihn schnüffeln. Reagiert er freundlich und interessiert, will er bestimmt gestreichelt werden.\nSchau dem Hund nicht direkt in die Augen. Auch das {{6}} der Hund bedrohlich finden.\nBellt Dich ein Hund an, bleibe stehen.\nStöre bitte auch nie einen Hund beim Fressen oder Schlafen. Das mögen Hunde genauso wenig, wie Du es vielleicht nicht leiden kannst.",
+      "correct_answers": [
+        "darf",
+        "sollte",
+        "will",
+        "hat",
+        "lasse",
+        "könnte"
+      ],
+      "distractors": [
+        "ist"
+      ]
+    },
+    {
+      "id": 762,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "B1",
+      "source_reference": "KPG B/ PRÜFUNGSVORBEREITUNG IN DER SCHULE-FILL IN THE GAPS ACTIVITIES, Test 7, A.4",
+      "linguistic_competence": [
+        "Reading",
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Im folgenden Text fehlen einige Wörter. Füllen Sie die Lücken aus, indem Sie die passenden Wörter aus der Liste ergänzen. Sie können jedes Wort nur einmal verwenden. Ein Wort bleibt übrig.",
+      "gapped_text": "Der „Urlaub ohne Eltern“ geht in eine neue Runde. Bianca, Weya, Louisa, Maja und Buse {{1}} in die Mädchen-Wohngemeinschaft ein.\nDie fünf Mädchen {{2}} sich vorher noch nie gesehen. Trotzdem {{3}} sie vier Wochen lang gemeinsam in einer Villa auf Mallorca.\nDas Beste: Es wird keine Erwachsenen {{4}}, die alles kontrollieren und vorschreiben. Das Schwierige: Es gibt auch keine Erwachsenen, die den Haushalt {{5}}. Hinzu kommt, dass sich die Mädchen noch um die zwei Haustiere {{6}} müssen.\nDas wird sicher aufregend!",
+      "correct_answers": [
+        "ziehen",
+        "haben",
+        "wohnen",
+        "geben",
+        "machen",
+        "kümmern"
+      ],
+      "distractors": [
+        "sein"
+      ]
+    },
+    {
+      "id": 760,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "B1",
+      "source_reference": "KPG B/ PRÜFUNGSVORBEREITUNG IN DER SCHULE-FILL IN THE GAPS ACTIVITIES, Test 5, A.4",
+      "linguistic_competence": [
+        "Reading",
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Im folgenden Text fehlen einige Wörter. Füllen Sie die Lücken aus, indem Sie die passenden Wörter aus der Liste ergänzen. Sie können jedes Wort nur einmal verwenden. Ein Wort bleibt übrig.",
+      "gapped_text": "Gute Leistungen mit dem richtigen Pausenbrot\nGute Leistungen sind {{1}} eine Frage der Intelligenz. Wichtig ist auch, {{2}} das Gehirn optimal mit wichtigen Stoffen versorgt wird. Studien zeigen: Das Frühstück allein reicht nicht aus, {{3}} bis mittags fit und aktiv zu bleiben. Der Körper verbraucht bei jeder Aktivität Energie, und braucht {{4}} zwischendurch neue Energiequellen wie Vitamine, Calcium und Eiweiß.\nAus diesem Grund ist das Pausenbrot in der Schule wichtig. Aber auch das beste Pausenbrot bringt nichts, {{5}} es in der Dose bleibt. Es wäre also gut, die Kinder beim Zubereiten des Pausenbrotes mitreden {{6}} lassen.",
+      "correct_answers": [
+        "nicht nur",
+        "dass",
+        "um",
+        "deshalb",
+        "wenn",
+        "zu"
+      ],
+      "distractors": [
+        "weil"
+      ]
+    },
+    {
+      "id": 755,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "B1",
+      "source_reference": "KPG B/ PRÜFUNGSVORBEREITUNG IN DER SCHULE-FILL IN THE GAPS ACTIVITIES, TEST 4, A4",
+      "linguistic_competence": [
+        "Grammar"
+      ],
+      "split": "dev",
+      "instruction": "Lesen Sie den Text und ergänzen Sie die Lücken mit den passenden Wörtern. Sie können jedes Wort nur einmal verwenden. Ein Wort bleibt übrig.",
+      "gapped_text": "Der Kinder-Anorak ist wieder mal auf dem Boden im Flur. Papas Sportschuhe stehen seit zwei Tagen vor dem Schuregal. Gerade sind alle vom Esstisch aufgestanden, ohne den Tisch aufzuräumen. Kein Wunder, {{1}} es in solchen Situationen in Familien Krach gibt! Das wollen Sie in Zukunft ändern? Prima, wir sagen Ihnen, {{2}} Sie das schaffen: Alle Familienmitglieder müssen zusammenarbeiten, {{3}} es daheim schön ist. Auch Kinder sollten als Teil der Familie lernen, bei der Hausarbeit mitzuhelfen. Den größten Anteil der Arbeit übernimmt vielleicht Mama, {{4}} sie mehr daheim ist. Aber: Auch wer nicht außer Haus arbeitet, hat {{5}} einen Job. Das wissen alle, {{6}} Kindererziehung ist auch Arbeit.",
+      "correct_answers": [
+        "dass",
+        "wie",
+        "damit",
+        "weil",
+        "trotzdem",
+        "denn"
+      ],
+      "distractors": [
+        "während"
+      ]
+    },
+    {
+      "id": 726,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "B1",
+      "source_reference": "KPG Β 2015Α- FILL IN THE GAPS ACTIVITIES, A.4",
+      "linguistic_competence": [
+        "Reading",
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Im folgenden Text fehlen einige Wörter. Füllen Sie die Lücken aus, indem Sie die passenden Wörter aus der Liste ergänzen. Sie können jedes Wort nur einmal verwenden. Ein Wort bleibt übrig.",
+      "gapped_text": "Freizeitangebote für Paare\nEine kurze {{1}} vom Alltag, mit etwas Romantik und viel Kreativität, das sind die Zutaten für die perfekte Freizeitgestaltung zu zweit.\nOb zusammen Videos anschauen, im Wohnzimmer Salsa tanzen, sich CDs anhören oder sich gegenseitig eine {{2}} vorlesen, – in den eigenen vier Wänden kann man so kreativ sein, wie man möchte. Wer eine schöne {{3}} zu zweit in der Natur verbringen möchte, der kann zum Beispiel auf der nächsten {{4}} ein Picknick veranstalten, nachts zusammen Sterne gucken oder auf einer {{5}} einen Ort blind wählen und einfach einmal mit dem Fahrrad dorthin fahren oder wandern. Nutzen Sie Ihre {{6}} und genießen Sie die kostbare Zeit zusammen.",
+      "correct_answers": [
+        "Pause",
+        "Geschichte",
+        "Zeit",
+        "Wiese",
+        "Landkarte",
+        "Fantasie"
+      ],
+      "distractors": [
+        "Urlaub"
+      ]
+    },
+    {
+      "id": 722,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "B1",
+      "source_reference": "KPG Β 2021Β- FILL IN THE GAPS ACTIVITIES, A.4",
+      "linguistic_competence": [
+        "Reading",
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Im folgenden Text fehlen einige Wörter. Füllen Sie die Lücken aus, indem Sie die passenden Wörter aus der Liste ergänzen. Sie können jedes Wort nur einmal verwenden. Ein Wort bleibt übrig.",
+      "gapped_text": "Kinder haben Rechte! Am 26. Januar 1990 haben 61 Staaten ein wichtiges Dokument {{1}} : die „Kinderrechtskonventionen der Vereinten Nationen“. Darin steht, dass Erwachsene wie {{2}} dieselben Rechte haben – etwa frei ihre Meinung zu sagen und {{3}} Gewalt zu leben. Auch dass Erwachsene verpflichtet sind, Kinder zu {{4}}. Sie müssen zum Beispiel dafür sorgen, dass Kinder genug zum Essen bekommen, dass sie {{5}} haben und vor allem keine schwere Arbeit {{6}} müssen.",
+      "correct_answers": [
+        "unterschrieben",
+        "Kinder",
+        "ohne",
+        "beschützen",
+        "Freizeit",
+        "erledigen"
+      ],
+      "distractors": [
+        "Äußerung"
+      ]
+    },
+    {
+      "id": 727,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "B2",
+      "source_reference": "KPG C1 2025B-FILL IN THE GAPS ACTIVITIES, SHARED LIST, A.7",
+      "linguistic_competence": [
+        "Reading",
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Lesen Sie den Text und entscheiden Sie, welche Wörter aus der folgenden Liste inhaltlich in die Lücken passen. Ein Wort bleibt übrig.",
+      "gapped_text": "Bürgerinitiative\nEine Bürgerinitiative ist ein spontaner Zusammenschluss einzelner Bürger, um für ein bestimmtes politisches, ökologisches oder soziales Anliegen einzutreten.\nBürgerinitiativen verfolgen zwar auch politische, soziale oder ökologische\nZiele, sie unterscheiden sich jedoch von politischen Parteien vor allem darin, dass sie keine breit angelegte Agenda haben, {{1}} der sie möglichst viele Meinungen vertreten könnten, um so politische Macht zu erhalten. Stattdessen sind sie eher ein Mittel zur Selbsthilfe und besitzen auch keine feste organisatorische Struktur wie etwa Interessenverbände.\nDer Anlass für die Gründung einer Bürgerinitiative kennt keine Grenzen. Meist entstehen sie {{2}} dem Empfinden der Beteiligten, dass die Politik für eine konkrete Sache zu wenig unternimmt, zum Beispiel im Zusammenhang mit dem Schutz der Menschenrechte oder der Umwelt. Oft richten sich Bürgerinitiativen aber auch gegen bestimmte Bauvorhaben oder Verkehrsplanungen. Durch Maßnahmen wie Unterschriftenaktionen, Verbreitung von Flugblättern, Demonstrationen oder Bürgerbegehren versuchen sie dann die Öffentlichkeit {{3}} ihr Anliegen zu mobilisieren. Dabei wenden sie sich in der Regel direkt an die verantwortlichen Behörden, um Druck auszuüben. Prominentes Beispiel einer solchen Initiative ist der Protest der Stuttgarter Bürgerinnen und Bürger {{4}} den Neubau des Hauptbahnhofs im Rahmen des Verkehrsprojekts „Stuttgart 21“.\nBürgerinitiativen setzen keine bestimmten organisatorischen Formen voraus. Oft handelt es sich um freie Gruppierungen, teilweise aber auch um rechtsfähige oder nicht rechtsfähige Vereine oder Stiftungen privaten Rechts. Die Voraussetzungen für eine Gründung hängen von der jeweiligen Art des Zusammenschlusses ab. Ein freier Zusammenschluss beispielsweise kann {{5}} einem Aufruf zu einer Gründungsversammlung ausgehen, den eine Einzelperson oder eine kleine Gruppe mithilfe von Flugblättern, Plakaten oder Pressemitteilungen in lokalen Medien gestartet hat.",
+      "correct_answers": [
+        "mit",
+        "aus",
+        "für",
+        "gegen",
+        "von"
+      ],
+      "distractors": [
+        "zu"
+      ]
+    },
+    {
+      "id": 715,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "B2",
+      "source_reference": "KPG B 2012A-FILL IN THE GAPS ACTIVITIES, A4",
+      "linguistic_competence": [
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Lesen Sie den Text und ergänzen Sie die Lücken mit den passenden Wörtern. Sie können jedes Wort nur einmal verwenden. Ein Wort bleibt übrig.",
+      "gapped_text": "In den letzten 30 Jahren ist die Kindermuseumslandschaft in Deutschland stark gewachsen. Was in den USA, Schweden oder Großbritannien schon lange selbstverständlich ist, {{1}} nun auch in Deutschland seine Fans gefunden. Auch bei uns im Kindermuseum Nürnberg {{2}} zu Themen aus Natur, Geschichte, Technik und Kulturen anderer Länder viel erlebt und entdeckt werden. Durch unsere Ausstellungen {{3}} die Neugier der Kinder geweckt, und die Kinder bekommen verständliche Antworten auf ihre Fragen. Mitmachen und Anfassen {{4}} nicht nur erlaubt, sondern ausdrücklich erwünscht! Unser Kindermuseum {{5}} Kinder spielerisch fit machen für eine Zukunft voller Ideen und Aufgaben.",
+      "correct_answers": [
+        "hat",
+        "kann",
+        "wird",
+        "ist",
+        "will"
+      ],
+      "distractors": [
+        "würde"
+      ]
+    },
+    {
+      "id": 711,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "B2",
+      "source_reference": "KPG Β 2023Α- FILL IN THE GAPS ACTIVITIES, A.4",
+      "linguistic_competence": [
+        "Reading",
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Im folgenden Text fehlen einige Wörter. Füllen Sie die Lücken aus, indem Sie die passenden Wörter aus der Liste ergänzen. Sie können jedes Wort nur einmal verwenden. Ein Wort bleibt übrig.",
+      "gapped_text": "Eure Fragen zur Galaxis - professionell beantwortet von Prof. Dr. Maier!\nWas sind die Plejaden?\nDie Plejaden sind eine Ansammlung von vielen Sternen. Sie sind 20 bis 50 Millionen Jahre alt, aber relativ {{1}}, wenn man ihr Alter mit dem Alter von anderen Sternen vergleicht. Unsere Erde und unsere Sonne beispielsweise sind viel älter – sie entstanden {{2}} rund 4,5 Milliarden Jahren. Als die Dinosaurier auf der Erde {{3}}, gab es die Plejaden noch gar nicht.\nWo befinden sich die Plejaden?\nDie Plejaden sind über 400 Lichtjahre von {{4}} entfernt. Von Anfang Juli bis Ende April könnt ihr sie mit bloßem Auge {{5}} Himmel sehen.\nWarum leuchten die Plejaden blau?\nDie Plejaden sind von einer Art Wolke umgeben. Ihr Licht erhellt diesen „Nebel“ und so entsteht die schöne {{6}} Farbe.",
+      "correct_answers": [
+        "jung",
+        "vor",
+        "lebten",
+        "uns",
+        "am",
+        "blaue"
+      ],
+      "distractors": [
+        "zum"
+      ]
+    },
+    {
+      "id": 749,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "C1",
+      "source_reference": "KPG C 2014B-FILL IN THE GAPS ACTIVITIES, A9",
+      "linguistic_competence": [
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Lesen Sie den Text und ergänzen Sie die Lücken mit den passenden Wörtern. Ein Wort bleibt übrig. Achten Sie auf die korrekte Form der Wörter.",
+      "gapped_text": "Lange Zeit glaubte man, Bienen hätten ein geniales genetisches Bauprogramm im Kopf, das sie zum {{1}} der sechseckigen Zellen anleite. Sechsecke bieten nicht nur relativ viel Innenraum, sie lassen sich auch auf vergleichsweise kleinem Raum aneinanderfügen. Zudem sind die Strukturen stabil: Wabengeflechte {{2}} sich gegen Druck von außen, weil ihre Struktur die Kräfte gut abfängt. Die Vorteile dieser Bauweise sind unbestritten; doch die Strukturen {{3}} einfach automatisch. Teils wegen des formbaren Bienenwachses, aus dem die Waben {{4}}. Da die Arbeiterinnen Seite an Seite bauen, geraten die Zellwände in Kontakt, und durch den physischen Druck von allen Seiten muss die ursprünglich rundliche Bienenwachszelle schließlich die stabilste Form {{5}} - die des Sechsecks. Die Wände sind dann nur sieben hundertstel Millimeter dick; 20 Gramm Bienenwachs können so zwei Kilogramm Honig fassen - unfassbar!",
+      "correct_answers": [
+        "herstellen",
+        "behaupten",
+        "entstehen",
+        "bestehen",
+        "annehmen"
+      ],
+      "distractors": [
+        "beharren"
+      ]
+    },
+    {
+      "id": 748,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "C1",
+      "source_reference": "KPG C 2014Α-FILL IN THE GAPS ACTIVITIES, A9",
+      "linguistic_competence": [
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Lesen Sie den Text und ergänzen Sie die Lücken mit den passenden Wörtern. Ein Wort bleibt übrig. Achten Sie auf die korrekte Form der Wörter.",
+      "gapped_text": "\"Ich bin {{1}} an den Koordinaten x und y.\" Diese SMS erhalten die Forscher des Minnesota Department of Natural Resources jedesmal, wenn einer der von ihnen mit einem Sender versehenen Elche in der Wildnis gestorben ist. In Minnesota werden die Tiere {{2}} von Hirnfadenwürmern und Leberegeln befallen. Und in New Hampshire grassiert eine Plage von Winterzecken, die den Elchen zu Leibe rücken: Mehr als 100.000 Zecken können einen einzigen Elch befallen. Die Opfer verlieren viel Blut und kratzen sich das Fell ab, sodass Augenzeugen sie oft als \"Geisterelche\" beschreiben. Elche werden stärker von Zecken besiedelt als Rotwild: Sie streifen sie nicht so {{3}} mit Gebiss oder Hufen aus dem Fell. Die letzte Ursache aber könnte der Klimawandel sein. An {{4}} Winter und deren Folgen – etwa mehr Parasiten – sind diese Riesenhirsche {{5}} angepasst. Das würde erklären, wieso ihre Zahl auch anderswo sinkt – etwa im fernen Schweden.",
+      "correct_answers": [
+        "tot",
+        "vermehrt",
+        "effektiv",
+        "warme",
+        "schlecht"
+      ],
+      "distractors": [
+        "krank",
+        "warm"
+      ]
+    },
+    {
+      "id": 746,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "C1",
+      "source_reference": "KPG C 2013B-FILL IN THE GAPS ACTIVITIES, A9",
+      "linguistic_competence": [
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Lesen Sie den Text und ergänzen Sie die Lücken mit den passenden Wörtern. Ein Wort bleibt übrig. Achten Sie auf die korrekte Form der Wörter.",
+      "gapped_text": "Ob wir arbeiten, Sport treiben, Briefe schreiben oder mit der Bohrmaschine hantieren – stets nutzen wir dabei {{1}} eine Hand. Bei 90 Prozent der Menschen ist es die rechte, nur zehn Prozent sind Linkshänder. Das Phänomen zeigt sich weltweit in allen Kulturen. Doch warum sind die meisten Menschen Rechtshänder? Bislang galt ein Argument aus der Hirnforschung als {{2}}: Die linke Hirnhälfte ist für Sprechen, Lesen und Schreiben {{3}}. Sie steuert aber auch die rechte Hand. Daraus resultiert eine verbesserte Zusammenarbeit der entsprechenden Hirnareale. Vermutlich entstand unsere Sprache auch aus Gesten, daher brachte diese Verknüpfung Vorteile. Durch die Nähe beider Bereiche lernten wir, mit der rechten Hand {{4}} motorische Aktivitäten durchzuführen. Diese These erklärt jedoch nicht, warum es Linkshänder gibt. Bei ihnen müsste die entsprechende Gehirnaktivität {{5}} ablaufen, die rechte Hirnhälfte sollte also die linke Hand steuern. Doch das ist bei der Mehrzahl der Linkshänder nicht zu beobachten, denn sie nutzen die linke Gehirnhälfte für die gleichen Aufgaben wie die Rechtshänder.",
+      "correct_answers": [
+        "bevorzugt",
+        "stichhaltig",
+        "zuständig",
+        "komplexe",
+        "seitenverkehrt"
+      ],
+      "distractors": [
+        "komplex",
+        "umständlich"
+      ]
+    },
+    {
+      "id": 745,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "C1",
+      "source_reference": "KPG C1 2013Α-FILL IN THE GAPS ACTIVITIES, A7",
+      "linguistic_competence": [
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Lesen Sie den Text und ergänzen Sie die Lücken mit den passenden Wörtern. Zwei Wörter müssen zweimal verwendet werden. Achten Sie auf die korrekte Form der Wörter.",
+      "gapped_text": "Vorbei die Rock-Pflicht. Vorbei der Kleidchen-Zwang. Frauen in Paris dürfen jetzt ganz {{1}} Hosen tragen – und brauchen keine Strafe mehr zu fürchten. Bislang brauchten Pariserinnen für das Tragen einer Hose, streng nach Gesetz, {{2}} eine Erlaubnis der Polizei. Die Beamten durften in Einzelfällen Ausnahmeregelungen formulieren – bei {{3}} Problemen zum Beispiel. Der Pariser Polizeipräfekt hatte im Jahr 1800 eine entsprechende Verordnung veröffentlicht. Damit wollte er angeblich verhindern, dass revolutionäre Amazonen als Männer {{4}} in den Krieg ziehen. Die Verordnung wurde nie aufgehoben – nur zweimal leicht verändert. Um 1900 wurde für {{5}} erklärt, dass eine Frau, die „einen Fahrradlenker oder Pferdezügel in der Hand hält“, eine Hose tragen darf. {{6}} Französinnen wie die Schriftstellerin Georges Sand wehrten sich {{7}} gegen die Verordnung, sie blieb weiter bestehen. Erst 213 Jahre nach der sogenannten Hosen-Verordnung sind die Pariserinnen jetzt {{8}} frei. Ausgerechnet ein konservativer Politiker hatte im vergangenen Sommer einen Brief an das Ministerium für Frauenrechte geschickt und betont, die Regelung sei wohl nicht mehr zeitgemäß. Das Ministerium sah das {{9}} und schaffte sie ab – im Jahr 2013. Die Verordnung sei „mit dem in der Verfassung verankerten Prinzip der Gleichheit zwischen Männern und Frauen nicht vereinbar“ – so die {{10}} Begründung. Pariserinnen dürfen jetzt also Hosenanzug, Jogginghose oder Jeans tragen – zum ersten Mal ganz legal!",
+      "correct_answers": [
+        "offiziel",
+        "tatsächlich",
+        "gesundheitlichen",
+        "verkleiden",
+        "zulässig",
+        "Berühmte",
+        "vergeblich",
+        "tatsächlich",
+        "ähnlich",
+        "offiziell"
+      ],
+      "distractors": [
+        "berühmt",
+        "gesundheitlich",
+        "verkleidet"
+      ]
+    },
+    {
+      "id": 744,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "C1",
+      "source_reference": "KPG C 2015A-FILL IN THE GAPS ACTIVITIES, A.9",
+      "linguistic_competence": [
+        "Reading",
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Lesen Sie den Text und entscheiden Sie, welche Wörter aus der folgenden Liste inhaltlich in die Lücken passen. Ein Wort bleibt übrig.",
+      "gapped_text": "Mondmotten haben zwei Flügelfortsätze, die für die Insekten wie eine Art Stealth-Technologie wirken. Von Sebastian Herrmann Oft {{1}} es die Überlebenschancen, unter dem Radar eines Räubers hindurch zu fliegen. Actias luna – eine amerikanische Nachtfalterart – verfügt darüber hinaus über eine besondere Technik, um dem Zielvisier der Großen Braunen Fledermaus zu {{2}}. Aus den hinteren Flügeln der Falter wachsen zwei schlanke, lange Fortsätze, die offenbar die Echoortung jagender Fledermäuse {{3}}. Das berichten Biologen um Jesse Barber von der Boise State University im Fachmagazin PNAS (online). Actias luna zählt zur Familie der Pfauenspinner und wird in Nordamerika, wo die Tiere heimisch sind, als Mondmotte bezeichnet. Die Tiere sind nachts aktiv und werden von Fledermäusen gejagt. Tagaktive Schmetterlinge {{4}} sich zum Beispiel mit abschreckenden Färbungen auf ihren Flügeln vor Fressfeinden. In der Dunkelheit kann diese Strategie natürlich nicht {{5}}, aber die Mondmotten besitzen eine akustische Entsprechung.",
+      "correct_answers": [
+        "erhöhen",
+        "entkommen",
+        "irritieren",
+        "schützen",
+        "aufgehen"
+      ],
+      "distractors": [
+        "passieren"
+      ]
+    },
+    {
+      "id": 743,
+      "activity_type": "fill_in_blanks_shared",
+      "status": "approved",
+      "language": "DE",
+      "cefr_level": "C1",
+      "source_reference": "KPG C1 2012B-FILL IN THE GAPS ACTIVITIES, A7",
+      "linguistic_competence": [
+        "Grammar",
+        "Vocabulary"
+      ],
+      "split": "dev",
+      "instruction": "Lesen Sie den Text und ergänzen Sie die Lücken mit den passenden Wörtern. Zwei Wörter müssen zweimal verwendet werden. Achten Sie auf die korrekte Form der Wörter.",
+      "gapped_text": "Ihr fröhliches Geplapper verrät es: Die {{1}} Opfer wissen nicht, was auf sie zukommt. Wenn sie die {{2}} Gestalt bemerken, die sich von hinten an sie herangeschlichen hat, ist es bereits zu spät. Dann erscheint plötzlich eine schwarze Hand aus dem Nichts ... Eine solche Szene hat wohl jeder schon einmal im Kino gesehen. Seltener findet man sie jedoch in Lichtspielhäusern, die sich der anspruchsvollen Filmkunst verschrieben haben. Und dass sich ein solcher Vorfall im Zuschauerraum abspielt, ist wohl die {{3}} Ausnahme — wenn man sich nicht im {{4}} Londoner Repertoirekino „Prince Charles Cinema“ befindet. Wer hier dazwischenquatscht, telefoniert, mit Popcorn wirft oder seine Füße auf den Sitz legt, muss mit dem Besuch der hauseigenen Kino-Ninjas rechnen: In {{5}}, hautenge Ganzkörpertrikots gezwängt schleichen sie sich an die rücksichtslosen Besucher heran und bitten sie, ihr unhöfliches Verhalten einzustellen. Der Einsatz {{6}} Kampftechniken und geräuschloser fernöstlicher Waffen bleibt — sicherlich zum Bedauern so mancher Filmfans — aus, die Beschützer cineastischer Tugenden belassen es bei einer {{7}} Verwarnung. In den Trikots stecken übrigens {{8}} Cineasten, die ihrer Ordnungstätigkeit {{9}} nachgehen, dafür aber die Filme des „Prince Charles Cinema“ kostenlos genießen dürfen. Der Versuch sei derartig {{10}}, dass er auf weitere Londoner Kinos ausgedehnt werden soll, berichtet der „Independent“.",
+      "correct_answers": [
+        "späteren",
+        "dunkle",
+        "absolute",
+        "erfolgreich",
+        "dunkel",
+        "tödlicher",
+        "mündlichen",
+        "begeisterte",
+        "ehrenamtlich",
+        "erfolgreich"
+      ],
+      "distractors": [
+        "absolut",
+        "begeistert",
+        "mündlich",
+        "später",
+        "tödlich"
+      ]
+    }
+  ]
+}
