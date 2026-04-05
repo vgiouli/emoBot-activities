@@ -1,0 +1,129 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Sentence Ordering Exercise Generation Example",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "task",
+    "language",
+    "source_text",
+    "exercise"
+  ],
+  "properties": {
+    "task": {
+      "type": "string",
+      "const": "generate_sentence_ordering_exercise"
+    },
+    "language": {
+      "type": "string",
+      "description": "Language of the source text and generated exercise, e.g. de, en, el."
+    },
+    "level": {
+      "type": ["string", "null"],
+      "description": "Optional CEFR level, e.g. A1, A2, B1, B2, C1, C2."
+    },
+    "topic": {
+      "type": ["string", "null"],
+      "description": "Optional thematic category."
+    },
+    "source_text": {
+      "type": "string",
+      "minLength": 1,
+      "description": "Original coherent text from which the exercise is generated."
+    },
+    "sentences": {
+      "type": "array",
+      "description": "Optional gold sentence segmentation of the original text.",
+      "minItems": 3,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "exercise": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "instruction",
+        "first_sentence",
+        "last_sentence",
+        "items",
+        "solution"
+      ],
+      "properties": {
+        "instruction": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Learner-facing instruction in the target language."
+        },
+        "first_sentence": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Fixed first sentence shown to the learner."
+        },
+        "last_sentence": {
+          "type": "string",
+          "minLength": 1,
+          "description": "Fixed last sentence shown to the learner."
+        },
+        "items": {
+          "type": "array",
+          "description": "Shuffled intermediate sentences only.",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "label",
+              "text",
+              "original_position"
+            ],
+            "properties": {
+              "label": {
+                "type": "string",
+                "pattern": "^[A-Z]$",
+                "description": "Letter label assigned after shuffling."
+              },
+              "text": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Intermediate sentence text exactly as in source."
+              },
+              "original_position": {
+                "type": "integer",
+                "minimum": 2,
+                "description": "Position of this sentence in the original ordered text, excluding the fixed first sentence at position 1."
+              }
+            }
+          }
+        },
+        "solution": {
+          "type": "array",
+          "description": "Correct order of labels for the shuffled intermediate sentences.",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "pattern": "^[A-Z]$"
+          }
+        },
+        "metadata": {
+          "type": "object",
+          "description": "Optional extra generation metadata.",
+          "additionalProperties": true,
+          "properties": {
+            "shuffle_seed": {
+              "type": ["integer", "null"]
+            },
+            "num_sentences": {
+              "type": ["integer", "null"],
+              "minimum": 3
+            },
+            "preserve_punctuation": {
+              "type": ["boolean", "null"]
+            }
+          }
+        }
+      }
+    }
+  }
+}
