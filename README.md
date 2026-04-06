@@ -26,12 +26,12 @@ The dataset includes the following activity types:
 With three subtypes:
 
 - **Shared List**  
-  A common pool of options is provided for all blanks.
+  A common pool of options is provided for all blanks. Currently, the .dev split is available.
 
 - **Individual Options**  
-  Each blank has its own set of candidate answers.
+  Each blank has its own set of candidate answers --> dataset not ready yet.
 
-- **No Distractors**  
+- **No Distractors**  --> dataset not ready yet.
   Learners provide answers without predefined options.
 
 ---
@@ -40,14 +40,14 @@ With three subtypes:
 
 Learners are given:
 
-- The **first** and **last** sentence of a text
+- The **first** and **last** sentence of a text are (optionally) provided
 - A set of **shuffled intermediate sentences**
 
-Their task is to reconstruct the correct order of the text.
+The task for the bot is to (a) create a short text, (b) split the text into sentences and label them, (c) optionally) set the first and last sentences as fixed, (d) suffle the non-fixed and present them to the user, and (e) correct the users.
 
 ---
 
-### 3. Multiple-Choice Questions
+### 3. Multiple-Choice Questions (not available yet)
 
 Standard multiple-choice items with one or more correct answers, used for:
 
